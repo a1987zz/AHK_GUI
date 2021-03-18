@@ -1,1 +1,1 @@
-# AHKGUI
+# AHK_GUI
