@@ -54,7 +54,7 @@ catch e {
 /*
 try {
   HttpObj := ComObjCreate("WinHttp.WinHttpRequest.5.1")
-   HttpObj.Open("POST", "https://api.vk.com/method/status.get?user_id=-188463999&fields=bdate&access_token=258deca36fd96bae65032a324f573fc196fbba64f215f71835a4bf861c7b5c65f2fc4195d99ed04c07a8d&v=5.103", True)
+   HttpObj.Open("POST", "https://api.vk.com/method/status.get?user_id=-18999&fields=bdate&access_token=258deca373fc196fbba64fc4195d99ed04c07a8d&v=5.103", True)
     HttpObj.SetRequestHeader("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36")
      HttpObj.SetRequestHeader("Content-Type","application/x-www-form-urlencoded")
      HttpObj.Send()
